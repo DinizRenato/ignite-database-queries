@@ -12,5 +12,5 @@
 
 ### Desafio 02 - Modelagem do banco de dados
 - [x] tabela de gêneros
-- [] tabela orders
-- [] cardinalidades entre as entidades
+- [x] tabela orders
+- [x] cardinalidades entre as entidades
