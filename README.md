@@ -9,3 +9,8 @@
 - [x] findByTitleContaining => `should be able find a game by entire or partial given title`
 - [x] countAllGames => `should be able to get the total count of games`
 - [x] findUsersByGameId => `should be able to list users who have given game id`
+
+### Desafio 02 - Modelagem do banco de dados
+- [x] tabela de gêneros
+- [] tabela orders
+- [] cardinalidades entre as entidades
